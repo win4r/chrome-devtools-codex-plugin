@@ -1,0 +1,10 @@
+interface:
+  display_name: "Chrome DevTools"
+  short_description: "Debug, inspect, and automate Chrome from Codex"
+  icon_small: "./assets/chrome-devtools-small.svg"
+  icon_large: "./assets/chrome-devtools-large.svg"
+  brand_color: "#0F9D58"
+  default_prompt: "Use Chrome DevTools to inspect a live page, reproduce a browser issue, and verify the fix end to end."
+
+policy:
+  allow_implicit_invocation: true
